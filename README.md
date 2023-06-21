@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FloreaCT
 - 👀 I’m interested in learning to code in Python, for now.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Everything! Python, JS, PHP, React, Laravel ....
 - 💞️ I’m looking to collaborate on any beginners projects.
 - 📫 How to reach me: Here :)
 
